@@ -15,7 +15,7 @@ carvekit-colab
 trimesh
 easydict
 tensorboard
-spconv-cu113
+spconv-cu120
 imageio-ffmpeg==0.4.7
 git+https://github.com/openai/CLIP.git
 mediapipe
